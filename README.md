@@ -1,6 +1,6 @@
-### Hi there 👋 I am Hazel Huong Pham
+## Hi there 👋 I am Hazel Huong Pham
 
-# 
+
 <table>
 <tr>
   <td valign="center">
